@@ -1,6 +1,6 @@
 # Trading-System
 
-Trading-System is a folder to practice various trading strategy with python.
+building an exchange app using simple orderbook data
 
 # compile the app
 
